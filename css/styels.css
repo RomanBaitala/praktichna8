@@ -101,7 +101,7 @@ img {
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
-    background-image: url(/images/background.jpg);
+    background-image: url(https://tvoemisto.tv/media/gallery/full/z/h/zhur.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
